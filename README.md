@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, eu sou Pietra Holzmann (MeiiDark)</h1>
+<h1 align="center">Oi 👋, eu sou Pietra Holzmann </h1>
 <h3 align="center">Apaixonada por ciências de dados no mundo coorporativo</h3>
 
 - 🌱 Atualmente estou aprendendo sobre **Python e machine learning**
